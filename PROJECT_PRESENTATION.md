@@ -29,7 +29,7 @@ Brainstorm a theme ✅
 - Check Kata
 
 **MVP 8** - *Stretch Goal* 
-- Make Kata harder
+- Make Kata harder or make more katas
 
 
 ## Planning
