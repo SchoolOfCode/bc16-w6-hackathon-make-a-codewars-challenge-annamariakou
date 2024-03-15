@@ -11,22 +11,22 @@ Brainstorm a theme ✅
 
 **MVP 2** 
 
-- Set up vitest
+- Set up vitest ✅
 
-- Set up basic test 
+- Set up basic test ✅
 
 **MVP 3** 
-- Plan Kata
+- Plan Kata ✅
 
 **MVP 4** 
-- Psuedocode 
+- Psuedocode ✅
 
 **MVP 6** 
-- Write Kata
-- Test Kata 
+- Write Kata ✅
+- Test Kata ✅
 
 **MVP 7** 
-- Check Kata
+- Check Kata ✅
 
 **MVP 8** - *Stretch Goal* 
 - Make Kata harder or make more katas
@@ -34,7 +34,28 @@ Brainstorm a theme ✅
 
 ## Planning
 
+**Brainstorm:** 
+
+*Choose a specific theme*
+
+**Ideas:** Uni students, plant shop, mathematics problem 
+
+**Final idea:** Uni Students
+
+**Quick summary:**
+
 A group of university students studying Mathematics at both the bachelors and masters levels have just been given their schedule for their new term. 
 
-You task is to determine their schedule based on the letter/number parameter criteria below:
+You task is to determine what day of the week they have algebra or calculus and if they are a bachelors or masters student. Their schedule is based on the letter/number parameter criteria below:
+
+B means bachelors student 
+M means masters student 
+
+A means algebra
+C means calculus 
+
+1-5 determines the day of the week with 1 being Monday and 5 being Friday. 
+
+EX: BA5: Bachelors student with Algebra on Fridays. 
+
 
