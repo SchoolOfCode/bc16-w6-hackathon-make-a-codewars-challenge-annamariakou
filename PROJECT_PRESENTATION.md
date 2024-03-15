@@ -59,3 +59,15 @@ C means calculus
 EX: BA5: Bachelors student with Algebra on Fridays. 
 
 
+## Retrospective 
+
+*What went well*
+
+- Picked something in my range
+- Clear and simple planning
+- Worked great with my team! They were very helpful and motivating. 
+- Great feedback from my team. 
+
+*What can be improved* 
+- Spent too much time trying to come up with a second harder kata. 
+- Try something I'm less comfortable with next time. 
